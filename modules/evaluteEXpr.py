@@ -1,4 +1,4 @@
-import config_logger
+import logger.config_logger as config_logger
 def calculateArithmeticOperations(expr):
 
     try:

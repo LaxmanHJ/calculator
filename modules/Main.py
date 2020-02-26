@@ -1,9 +1,9 @@
 import re
-import evaluteEXpr
-import EvaluateSqrt
-import EvaluatePowe
-import storehistory
-import config_logger
+import modules.evaluteEXpr as evaluteEXpr
+import modules.EvaluateSqrt as EvaluateSqrt
+import modules.EvaluatePowe as EvaluatePowe
+import modules.storehistory as storehistory
+import logger.config_logger as config_logger
 
 class main1():
     def calc(self):

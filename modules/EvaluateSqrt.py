@@ -1,5 +1,5 @@
 import math
-import config_logger
+import logger.config_logger as config_logger
 def calculateSquareRoot(num):
 
     try:

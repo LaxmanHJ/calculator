@@ -1,5 +1,5 @@
-import Main2
-import Main
+import modules.Main2 as Main2
+import modules.Main as Main
 
 class custobject(object):
     def factory(typeof):

@@ -1,7 +1,7 @@
 import re
-import evaluteEXpr
-import config_logger
-import storehistory
+import modules.evaluteEXpr as evaluteEXpr
+import modules.storehistory as storehistory
+import logger.config_logger as config_logger
 
 
 class main2():
